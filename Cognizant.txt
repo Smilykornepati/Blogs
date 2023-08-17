@@ -1,0 +1,13 @@
+When I was in 4th Semester, I have come across Agile virtual experience program at Cognizant at Instagram. (Insta page: Jobs_for_freshers) and I have applied for it.
+
+Within 2 weeks I got a mail that my resume got shortlisted and a assessment link for the first round. I have cleared first round (i.e; coding & aptitude) and has not received mail for the second round. I almost lost hopes on this and was searching for the other lately, I got a mail for the second round nearly after 3 weeks duration. I have cleared the second round as well.(i.e; Coding and Mcq's).
+
+After that i got a mentor from cognizant and got trained for agile methodologies for 6 consecutive weeks in depth. At Last; they assigned me a project work and got completed and submitted to them in time.
+
+Now its the face of interviews!
+
+A women scheduled a interview with me to the SDE intern role(This program is actually a agile virtual but as i have done my best in project i got chance to the sde intern role). She started asking me with the basic questions such as introduce yourself and pointers , dynamic memory allocation in C, OOps concept.first 6-7 questions were good and i answered and then she started asking me about networking. However I managed with basics but was unable to reach her expectation.
+
+she has asked me questions continuosly about netwoking itself. I was wondered how can she ask about networking(in depth) to a second year student. Then, I'm unable to clear that round.
+
+Thanks for reading:) https://smilykornepati.hashnode.dev/agile-virtual-experience-ft-cognizant-sharing-my-experience

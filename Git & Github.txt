@@ -1,0 +1,86 @@
+Topics that will be covered:
+
+VCS - Version control System
+
+Why Vcs here?
+
+What is Git?
+
+Popular git commands.
+
+What is Github?
+
+How are git and github differentiated?
+
+Active competitors to git and github.
+
+Version Control System(VCS):
+A version control system keeps the track of changes made to a file or the set of files. for example; writing or removing a code snippet or changing images or any kind of changes or modifications that a developer does.
+
+Why Vcs Here?
+version control system is the base to understand the git. Git is totally based on version control system that keeps the track of changes or modifications that the developer do to the project.
+
+Git(Global information tracker):
+Git is a open source version control system that is used to handle projects with high speed and efficiency.It is used to co-ordinate the work among developers.It is foundation of most of services like gitlab and github.
+
+git is a software that uses terminal(command line) or graphical user interface application(desktop application).
+
+commit files in git:
+Each recorded file or set of files is called a commit.
+
+stage in git:
+before we make commit, we must tell git which file to commit, this is known as staging. It uses add command.
+
+Popular Git commands:
+git clone:
+
+git clone <url>
+
+git fetch : this will get all updates from remote repository.
+
+Git checkout:
+
+git checkout -b<branch name>
+
+Git push:
+
+git push
+
+Git diff:
+
+git diff--staged.
+
+git add:
+
+git add<file path>
+
+Github:
+Github is a git repository hosting service that provides web based graphical interface.keeping a code or project into github increases its exposure.It is a cloud-based service that assists developers in storing and managing code.It makes git more user friendly.In addition github makes others easy to contribute to the project.
+
+you can use git without github, but you cannot use github without git
+
+How git is differentiated with github?
+Git is a version control system to keep a track of changes where as github is a cloud - based service to host git repositories.
+
+git focuses on version control and code conserving , github focuses on web hosting and code sharing.
+
+git uses command line tool while github is graphical user interface.
+
+git is locally installed on computer and github is available on internet to eveyone.
+
+Git lacks user management interface, Github has built-in management features.
+
+In Git, there is no dedicated system to collaborate with users, specific tab is opened in github for collaborations.
+
+Github runs code that has static functions,but cannot run dynamic functions.
+
+The privacy is too strong in git while in github it is based on setting of repositories.
+
+Active competitors to git and github.
+git:
+Cvs, Azure DevOps Server,Subversion,Mecurial,IBM.
+
+github:
+Gitlab, AWS code commit,Bit Bucket.
+
+git is a metaphor for my life,I change, learn from my misakes and move on.

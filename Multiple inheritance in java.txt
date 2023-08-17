@@ -1,0 +1,42 @@
+Inheritance is a feature of object-oriented programming language where a class can inherit the features of another class which helps in code reusability. unlike other programming languages java doesn't support multiple inheritance.
+
+
+CODE
+import java.util.*;
+
+class S1{
+      public void sum(int x,int y){
+            System.out.println("Sum= "+ x+y);
+      }
+}
+
+class S2{
+      public void sum(int x,int y){
+            System.out.println("Sum= "+ x+y);
+      }
+}
+public class D1 extends S1, S2{
+      public static void main(String args[]){
+            D1 obj = new D1();
+            obj.sum();
+      }
+}
+output:
+
+
+COPY
+Main.java:16: error: '{' expected
+public class D1 extends S1, S2{
+                          ^
+1 error
+The error shows the ambiguity that happens in multiple inheritance in java.
+
+In the above program, the base class is used to create two child classes.if we use concept of inheritance in further to create another child class from parent 1 and parent 2. now when we create child class object and call the method, the compiler gets confused to call it from parent 1 or parent 2. this is the ambiguity faced by multiple inheritance of classes in java.
+
+Diamond problem in java
+
+
+
+This is the common problem arising due to multiple inheritance in java.
+
+In this situation we create another class grandchild that inherits child 1 and child 2. while we call the method sum( ), the compiler again gets confused. hence the ambiguity of the multiple inheritance cannot be resolved. This is commonly known as the diamond problem as the diagram is similar to the diamond. https://smilykornepati.hashnode.dev/multiple-inheritance-in-java.
